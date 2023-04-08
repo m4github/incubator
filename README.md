@@ -1,2 +1,2 @@
 # incubator
-An incubator for fun and also make money with my cousin's help.
+An incubator for fun and also make money, all with my cousin's help.
